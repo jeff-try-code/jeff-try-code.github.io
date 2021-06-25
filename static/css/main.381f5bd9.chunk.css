@@ -1,0 +1,2 @@
+.topbar{width:100%;height:70px;background-color:#fff;position:fixed;top:0;z-index:3;transition:all 1s ease}.intro{background-color:#34a853;display:flex}.projects{background-color:#fbbc05;display:flex}.skills{background-color:#ea4335;display:flex}.contact{background-color:#4285f4;display:flex}.app{height:100vh}.app .sections{width:100%;height:calc(100vh - 70px);background-color:#d3d3d3;position:relative;top:70px}.app .sections>*{width:100vw;height:calc(100vh - 70px);scroll-snap-align:start}
+/*# sourceMappingURL=main.381f5bd9.chunk.css.map */
